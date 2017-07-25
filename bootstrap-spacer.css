@@ -1,0 +1,81 @@
+/* 
+=======================
+Author: Chigozie Orunta
+Description: A simple CSS library to help style the spacing of Bootstrap Rows and Columns easily...
+Build: 1.0.1
+Date: 25-07-2017
+=======================
+*/
+
+/* Row Spacers */
+
+.row-spacer {
+	margin-bottom: 3em;
+}
+
+.row-spacer-xs {
+	margin-bottom: 0.75em;
+}
+
+.row-spacer-sm {
+	margin-bottom: 1.5em;
+}
+
+.row-spacer-lg {
+	margin-bottom: 4.5em;
+}
+
+/* Column Spacers */
+
+.row-col-spacer > div {
+	margin-bottom: 3em;
+}
+
+.row-col-spacer > div:last-child {
+	margin-bottom: 0 !important;
+}
+
+.row-col-spacer-xs > div {
+	margin-bottom: 0.75em;
+}
+
+.row-col-spacer-xs > div:last-child {
+	margin-bottom: 0 !important;
+}
+
+.row-col-spacer-sm > div {
+	margin-bottom: 1.5em;
+}
+
+.row-col-spacer-sm > div:last-child {
+	margin-bottom: 0 !important;
+}
+
+.row-col-spacer-lg > div {
+	margin-bottom: 4.5em;
+}
+
+.row-col-spacer-lg > div:last-child {
+	margin-bottom: 0 !important;
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	
+	.row-col-spacer > div {
+		margin-bottom: 0 !important;
+	}
+	
+	.row-col-spacer-xs > div {
+		margin-bottom: 0 !important;
+	}
+	
+	.row-col-spacer-sm > div {
+		margin-bottom: 0 !important;
+	}
+	
+	.row-col-spacer-lg > div {
+		margin-bottom: 0 !important;
+	}
+	
+}
