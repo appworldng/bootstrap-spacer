@@ -1,6 +1,21 @@
 # bootstrap-spacer
 A simple CSS library containing rules for spacing bootstrap rows and columns apart...
 
+## CDN
+The CDN is updated after the release is made public. Always, check the GitHub page for the latest release.
+<ul>
+  <li>
+    <a href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-spacer/bootstrap-spacer.min.css">
+      https://cdnjs.cloudflare.com/ajax/libs/bootstrap-spacer/bootstrap-spacer.min.css
+    </a>
+  </li>
+  <li>
+    <a href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-spacer/bootstrap-spacer.css">
+      https://cdnjs.cloudflare.com/ajax/libs/bootstrap-spacer/bootstrap-spacer.css
+    </a>
+  </li>
+</ul>
+
 ### Usage
 Bootstrap Spacer comes with standard classes which you can use to style spaces between rows (**row-spacer**) and columns (**row-col-spacer**).
 
