@@ -8,7 +8,7 @@ Date: 25-07-2017
 
 /* Row Spacers */
 
-.row-spacer {
+.row-spacer, .row-spacer-md {
 	margin-bottom: 3em;
 }
 
@@ -26,11 +26,11 @@ Date: 25-07-2017
 
 /* Column Spacers */
 
-.row-col-spacer > div {
+.row-col-spacer > div, .row-col-spacer-md > div {
 	margin-bottom: 3em;
 }
 
-.row-col-spacer > div:last-child {
+.row-col-spacer > div: last-child, .row-col-spacer-md > div:last-child {
 	margin-bottom: 0 !important;
 }
 
@@ -61,7 +61,7 @@ Date: 25-07-2017
 /* Small Devices & Tablets */
 @media only screen and (min-width : 768px) {
 	
-	.row-col-spacer > div {
+	.row-col-spacer > div, .row-col-spacer-md > div {
 		margin-bottom: 0 !important;
 	}
 	
