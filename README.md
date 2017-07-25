@@ -49,10 +49,12 @@ The **row-spacer** and **row-col-spacer** classes can be combined to achieve spa
 <!--Row Spacer Classes-->
 .row-spacer-xs
 .row-spacer-sm
+.row-spacer-md
 .row-spacer-lg
 
 <!--Row Column Spacer Classes-->
 .row-col-spacer-xs
 .row-col-spacer-sm
+.row-col-spacer-md
 .row-col-spacer-lg
 ```
