@@ -74,3 +74,5 @@ The **xs**, **sm**, **md**, **lg** options can be used to modify spacing dimensi
 .row-col-spacer-lg
 ```
 
+### Contributions
+Anyone and everyone is welcome to contribute. Make sure you're using the latest version of bootstrap-spacer before submitting an issue.
