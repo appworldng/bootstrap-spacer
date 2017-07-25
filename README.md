@@ -44,17 +44,17 @@ The **row-spacer** and **row-col-spacer** classes can be combined to achieve spa
 ```
 
 #### Other Classes
-The **row-spacer** and **row-col-spacer** classes can be combined to achieve spacing between rows and columns together.
+The **xs**, **sm**, **md**, **lg** options can be used to modify spacing dimensions. By default, the **row-spacer-md** class's dimension is the default size utilized and is the same as the **row-spacer** default class.
 ```
 <!--Row Spacer Classes-->
 .row-spacer-xs
 .row-spacer-sm
-.row-spacer-md
+.row-spacer-md (default, same as .row-spacer)
 .row-spacer-lg
 
 <!--Row Column Spacer Classes-->
 .row-col-spacer-xs
 .row-col-spacer-sm
-.row-col-spacer-md
+.row-col-spacer-md (default, same as .row-col-spacer)
 .row-col-spacer-lg
 ```
