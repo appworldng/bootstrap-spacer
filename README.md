@@ -10,8 +10,8 @@ The CDN is updated after the release is made public. Always, check the GitHub pa
     </a>
   </li>
   <li>
-    <a href="https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/057a315e/bootstrap-spacer.min.css">
-      https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/057a315e/bootstrap-spacer.min.css
+    <a href="https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/2d2bcb93/bootstrap-spacer.min.css">
+      https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/2d2bcb93/bootstrap-spacer.min.css
     </a>
   </li>
 </ul> 
