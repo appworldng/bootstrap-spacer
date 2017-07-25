@@ -58,7 +58,7 @@ Date: 25-07-2017
 	margin-bottom: 0 !important;
 }
 
-/* Small Devices, Tablets */
+/* Small Devices & Tablets */
 @media only screen and (min-width : 768px) {
 	
 	.row-col-spacer > div {
