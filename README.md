@@ -5,8 +5,8 @@ A simple CSS library containing rules for spacing bootstrap rows and columns apa
 The CDN is updated after the release is made public. Always, check the GitHub page for the latest release.
 <ul>
   <li>
-    <a href="https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/057a315e/bootstrap-spacer.css">
-      https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/057a315e/bootstrap-spacer.css
+    <a href="https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/65b410d7/bootstrap-spacer.css">
+      https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/65b410d7/bootstrap-spacer.css
     </a>
   </li>
   <li>
