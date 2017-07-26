@@ -1,1 +1,58 @@
 @import "variables";
+
+/* Row Spacers */
+
+.row-spacer, .row-spacer-md {
+	.margin-bottom(@margin_base, @margin_md);
+}
+
+.row-spacer-xs {
+	.margin-bottom(@margin_base, @margin_xs);
+}
+
+.row-spacer-sm {
+	.margin-bottom(@margin_base, @margin_sm);
+}
+
+.row-spacer-lg {
+	.margin-bottom(@margin_base, @margin_lg);
+}
+
+/* Column Spacers */
+
+.row-col-spacer > div, .row-col-spacer-md > div {
+	.margin-bottom(@margin_base, @margin_md);
+}
+
+.row-col-spacer-xs > div {
+	.margin-bottom(@margin_base, @margin_xs);
+}
+
+.row-col-spacer-sm > div {
+	.margin-bottom(@margin_base, @margin_sm);
+}
+
+.row-col-spacer-lg > div {
+	.margin-bottom(@margin_base, @margin_lg);
+}
+
+.row-col-spacer > div:last-child,
+.row-col-spacer-xs > div:last-child,
+.row-col-spacer-sm > div:last-child,
+.row-col-spacer-md > div:last-child,
+.row-col-spacer-lg > div:last-child {
+	.margin-bottom(@margin_base, 0);
+}
+
+/* Small Devices & Tablets */
+@media only screen and (min-width : 768px) {
+	
+	.row-col-spacer > div,
+    .row-col-spacer-xs > div,
+    .row-col-spacer-sm > div,
+    .row-col-spacer-md > div,
+    .row-col-spacer-xs > div {
+	    .margin-bottom(@margin_base, 0);
+	}
+	
+}
