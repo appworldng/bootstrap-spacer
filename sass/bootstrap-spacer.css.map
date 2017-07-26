@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,iBAAiB;AAEjB,2BAA4B;ECM1B,aAAa,EAAE,cAAsC;;ADFvD,cAAe;ECEb,aAAa,EAAE,iBAAsC;;ADEvD,cAAe;ECFb,aAAa,EAAE,gBAAsC;;ADMvD,cAAe;ECNb,aAAa,EAAE,cAAsC;;ADUvD,oBAAoB;AAEpB,+CAAgD;ECZ9C,aAAa,EAAE,cAAsC;;ADgBvD,wBAAyB;EChBvB,aAAa,EAAE,iBAAsC;;ADoBvD,wBAAyB;ECpBvB,aAAa,EAAE,gBAAsC;;ADwBvD,wBAAyB;ECxBvB,aAAa,EAAE,cAAsC;;AD4BvD;;;;mCAIoC;EChClC,aAAa,EAAE,cAAsC;;ADoCvD,6BAA6B;AAC7B,yCAA2C;EAE1C;;;;0BAI4B;IC3C3B,aAAa,EAAE,cAAsC",
+"sources": ["bootstrap-spacer.scss","variables.scss"],
+"names": [],
+"file": "bootstrap-spacer.css"
+}
