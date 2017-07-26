@@ -1,1 +1,58 @@
 @import "variables";
+
+/* Row Spacers */
+
+.row-spacer, .row-spacer-md {
+	margin-bottom: $margin;
+}
+
+.row-spacer-xs {
+	margin-bottom: $margin/4;
+}
+
+.row-spacer-sm {
+	margin-bottom: $margin/2;
+}
+
+.row-spacer-lg {
+	margin-bottom: $margin*1.5;
+}
+
+/* Column Spacers */
+
+.row-col-spacer > div, .row-col-spacer-md > div {
+	margin-bottom: $margin;
+}
+
+.row-col-spacer-xs > div {
+	margin-bottom: $margin/4;
+}
+
+.row-col-spacer-sm > div {
+	margin-bottom: $margin/2;
+}
+
+.row-col-spacer-lg > div {
+	margin-bottom: $margin*1.5;
+}
+
+.row-col-spacer > div:last-child,
+.row-col-spacer-xs > div:last-child,
+.row-col-spacer-sm > div:last-child,
+.row-col-spacer-md > div:last-child,
+.row-col-spacer-lg > div:last-child {
+	margin-bottom: 0 !important;
+}
+
+/* Small Devices & Tablets */
+@media only screen and (min-width : 768px) {
+	
+	.row-col-spacer > div,
+    .row-col-spacer-xs > div,
+    .row-col-spacer-sm > div,
+    .row-col-spacer-md > div,
+    .row-col-spacer-xs > div {
+		margin-bottom: 0 !important;
+	}
+	
+}
