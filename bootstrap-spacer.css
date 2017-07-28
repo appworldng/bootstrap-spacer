@@ -1,10 +1,10 @@
-/* 
-=======================
-Author: Chigozie Orunta
-Description: A simple CSS library to help style the spacing of Bootstrap Rows and Columns easily...
-Date: 25-07-2017
-=======================
-*/
+/**
+ * bootstrap-spacer - v1.0.0 - 2017-07-25
+ * https://github.com/chigozieorunta/bootstrap-spacer
+ *
+ * Copyright (c) 2017 Chigozie Orunta
+ * Licensed MIT <https://github.com/chigozieorunta/bootstrap-spacer/blob/master/LICENSE>
+**/
 
 /* Row Spacers */
 .row-spacer, .row-spacer-md {
