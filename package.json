@@ -1,6 +1,6 @@
 {
     "name": "ogbonge",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A simple CSS library containing rules for spacing bootstrap rows and columns apart...",
     "author": "Chigozie Orunta <chigozieorunta@yahoo.com> (https://github.com/chigozieorunta/bootstrap-spacer)",
     "license": "MIT",
@@ -22,7 +22,9 @@
         "orunta"
     ],
     "files": [
-        "dist/bootstrap-spacer.css",
-        "dist/bootstrap-spacer.min.css"
+        "less",
+        "sass",
+        "bootstrap-spacer.css",
+        "bootstrap-spacer.min.css"
     ]
 }
