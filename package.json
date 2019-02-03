@@ -4,12 +4,12 @@
     "description": "A simple CSS library containing rules for spacing bootstrap rows and columns apart...",
     "author": "Chigozie Orunta <chigozieorunta@yahoo.com> (https://github.com/chigozieorunta/bootstrap-spacer)",
     "license": "MIT",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
     "repository": {
         "type": "git",
         "url": "git://github.com/chigozieorunta/bootstrap-spacer.git"
-    },
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
         "chigozieorunta",
@@ -17,6 +17,8 @@
         "package",
         "bootstrap-spacer",
         "bootstrap",
-        "spacer"
+        "spacer",
+        "chigozie",
+        "orunta"
     ]
 }
