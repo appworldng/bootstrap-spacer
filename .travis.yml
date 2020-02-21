@@ -1,5 +1,1 @@
-language: css
-
-css:
-  - 2
-  - 3
+language: less
