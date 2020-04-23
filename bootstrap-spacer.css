@@ -54,7 +54,7 @@
   .row-col-spacer-xs > div,
   .row-col-spacer-sm > div,
   .row-col-spacer-md > div,
-  .row-col-spacer-xs > div {
+  .row-col-spacer-lg > div {
     	margin-bottom: 0 !important; 
 	} 
 }
