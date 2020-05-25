@@ -1,5 +1,5 @@
 # bootstrap-spacer 
-A simple CSS library containing rules for spacing bootstrap rows and columns apart. 
+A simple CSS library containing rules for spacing bootstrap rows and columns apart.
 
 ## NPM
 You can install directly via NPM to your project folder.
